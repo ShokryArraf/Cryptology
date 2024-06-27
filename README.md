@@ -3,6 +3,6 @@ An application for secure SMS exchange: encryption-decryption with Kuznyechik in
 
 Team Members:
 
-1.Shokry Arraf
-2.Omar Saleh
+1.Shokry Arraf\n
+2.Omar Saleh\n
 3.Yosra Daso
